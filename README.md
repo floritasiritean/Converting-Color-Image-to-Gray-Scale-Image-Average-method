@@ -11,9 +11,9 @@ Cerintele de implementare:
 7. Aplicatia trebuie sa fie multimodulara (impartirea in clase cu ierarhii – chiar cu cost in timp de procesare). Cel putin 3 niveluri de mostenire
 8. Include varargs
 9. Include constructori
-10.Include cel putin un bloc de initializare si un bloc static de initializare
-11.Include Interface (cu o clasa care o implementeaza)
-12.Include Clase Abstracte cu metode abstracte si clase concrete care extind clasele abstracte
-13.Include tratarea exceptiilor
-14.Aplicatia contine 2 pachete: Pachetul 1 sa contina aplicatia de test, pachetul 2 sa
+10. Include cel putin un bloc de initializare si un bloc static de initializare
+11. Include Interface (cu o clasa care o implementeaza)
+12. Include Clase Abstracte cu metode abstracte si clase concrete care extind clasele abstracte
+13. Include tratarea exceptiilor
+14. Aplicatia contine 2 pachete: Pachetul 1 sa contina aplicatia de test, pachetul 2 sa
 contina restul claselor
